@@ -1,0 +1,12 @@
+{
+  "name": "india-leads",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@trigger.dev/sdk": "4.5.11"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "4.5.11",
+    "trigger.dev": "4.5.11"
+  }
+}
